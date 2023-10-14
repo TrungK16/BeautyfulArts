@@ -28,7 +28,7 @@ namespace CourseManagement.Controllers
 			{
 				var courses = _dataContext.Courses.Where(course =>
 				(string.IsNullOrWhiteSpace(search) || course.CourseName.ToLower().Contains(search.ToLower()))
-				&& ((minFee == null || course.Fee >= minFee) && (maxFee == null || course.Fee <= maxFee))
+				&& ((minFee == null || course.Fee >= minFee) && (maxFee == null || course.Fee <= maxFee)) 
 				&& (mentorId == null || course.AccId == mentorId))
 				.Skip(pageIndex.Value - 1).Take(pageSize.Value);
 

@@ -3052,11 +3052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Programs\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
+      "projectUniqueName": "D:\\Semester 5\\SWP391\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
       "projectName": "CourseManagement",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\Programs\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
+      "projectPath": "D:\\Semester 5\\SWP391\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\Programs\\CourseManagement\\CourseManagement\\CourseManagement\\obj\\",
+      "outputPath": "D:\\Semester 5\\SWP391\\CourseManagement\\CourseManagement\\CourseManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

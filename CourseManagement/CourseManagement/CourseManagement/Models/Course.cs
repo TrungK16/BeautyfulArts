@@ -9,7 +9,8 @@ namespace CourseManagement.Models
 		public string CourseName { get; set; }
 		public string? Image { get; set; }
 		public double Fee { get; set; }
-		public bool Status { get; set; }
+		public string AuthorName { get; set; }
+        public bool Status { get; set; }
 		public DateTime CreatedDate { get; set; }
 		public int EnrollmentCount { get; set; }
 	}
